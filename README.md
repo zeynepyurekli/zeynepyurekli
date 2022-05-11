@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @zeynepyurekli
-- 👀 I’m interested in Metaverse
 - 🌱 I’m currently learning Unity
 
 <!---
