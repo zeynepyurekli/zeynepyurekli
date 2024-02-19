@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeynepyurekli
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning DataScience
 
 <!---
 zeynepyurekli/zeynepyurekli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
